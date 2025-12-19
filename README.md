@@ -73,6 +73,11 @@ const abay = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abay20357&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </p>
 
+<!-- Contribution Calendar with Labels -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/6C63FF/abay20357" alt="Contribution Calendar" width="100%"/>
+</p>
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abay20357/abay20357/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
