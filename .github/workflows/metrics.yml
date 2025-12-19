@@ -1,44 +1,30 @@
 name: Generate GitHub Metrics
 
 on:
-  # Run automatically every day at midnight
   schedule:
     - cron: "0 0 * * *"
-  
-  # Allow manual trigger
   workflow_dispatch:
-  
-  # Run on push to main branch
   push:
     branches:
       - main
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: write
+permissions:
+  contents: write
 
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    
     steps:
-      # Generate 3D Isometric Calendar
-      - name: Generate 3D Isometric Contribution Calendar
+      - name: Generate Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics-isocalendar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics-isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           config_timezone: Asia/Jakarta
-
-      # Generate Full Year Calendar (alternative view)
-      - name: Generate Contribution Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics-calendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 3
-          config_timezone: Asia/Jakarta
+          config_output: svg
+          output_action: commit
+          committer_branch: main
