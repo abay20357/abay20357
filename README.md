@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Abay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="yuji.gif" width="300" alt="Yuji"/>
-</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abay+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Enthusiast;Creative+Coder" alt="Typing SVG" />
@@ -138,6 +136,10 @@ const abay = {
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+<p align="center">
+  <img src="yuji.gif" width="100%" alt="Yuji"/>
 </p>
 
 <p align="center">
