@@ -171,10 +171,6 @@ const abay = {
 </p>
 
 <p align="center">
-  <img src="yuji.gif" width="60%" alt="Yuji"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Design+is+not+just+what+it+looks+like...;Design+is+how+it+works.+%E2%80%93+Steve+Jobs;Good+design+is+invisible.+%E2%80%93+Dieter+Rams;Simplicity+is+the+ultimate+sophistication." alt="Quote"/>
 </p>
 
@@ -182,6 +178,10 @@ const abay = {
   <b>Thanks for visiting! ⭐</b>
   <br/>
   <sub>Let's connect and build something amazing together! 🚀</sub>
+</p>
+
+<p align="center">
+  <img src="yuji.gif" width="60%" alt="Yuji"/>
 </p>
 
 <p align="center">
