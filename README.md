@@ -51,6 +51,19 @@ const abay = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="25"/> &nbsp;Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31qmlt2rvmca2iwet3i637x5dxky">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qmlt2rvmca2iwet3i637x5dxky&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6C63FF&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> &nbsp;Tech Stack
 
 <p align="center">
