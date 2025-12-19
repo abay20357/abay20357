@@ -12,35 +12,25 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Generate Snake with Calendar Labels
-        uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: github-snake.svg
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: no
-          plugin_habits_trim: no
-          config_timezone: Asia/Jakarta
-          config_output: svg
-          output_action: commit
-          committer_branch: main
-          
-      - name: Generate Isocalendar (3D with labels)
-        uses: lowlighter/metrics@latest
+          github_user_name: abay20357
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        
+      - name: Deploy to branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: github-isocalendar.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          config_timezone: Asia/Jakarta
-          config_output: svg
-          output_action: commit
-          committer_branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
