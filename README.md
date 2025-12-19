@@ -59,6 +59,15 @@ const abay = {
   </a>
 </p>
 
+<p align="center">
+  <a href="https://open.spotify.com/user/31qmlt2rvmca2iwet3i637x5dxky">
+    <img src="https://img.shields.io/badge/Follow_Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify"/>
+  </a>
+  <a href="https://open.spotify.com/user/31qmlt2rvmca2iwet3i637x5dxky/playlists">
+    <img src="https://img.shields.io/badge/My_Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Playlists"/>
+  </a>
+</p>
+
 <!-- Animated Line Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
