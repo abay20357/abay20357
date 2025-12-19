@@ -73,15 +73,27 @@ const abay = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abay20357&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </p>
 
-<!-- 3D Isometric Contribution Calendar - Displays directly! -->
+<!-- Contribution Graph & Stats -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/abay20357?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FJakarta" width="98%" alt="3D Isometric Contribution Calendar"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=tokyonight" width="98%" alt="Profile Details"/>
 </p>
 
-<!-- Additional 3D City Stats Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abay20357&theme=tokyonight&utcOffset=7" width="49%" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abay20357&theme=tokyonight" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abay20357&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%" alt="Activity Graph"/>
+</p>
+
+<!-- Stats Cards Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abay20357&theme=tokyonight&utcOffset=7" width="32%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abay20357&theme=tokyonight" width="32%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abay20357&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+</p>
+
+<!-- 3D City Exploration -->
+<p align="center">
+  <a href="https://skyline.github.com/abay20357/2024">
+    <img src="https://img.shields.io/badge/🏙️_Explore_My_3D_GitHub_Skyline-6C63FF?style=for-the-badge" alt="GitHub Skyline 3D"/>
+  </a>
 </p>
 
 ---
