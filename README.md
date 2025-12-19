@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Abay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -22,7 +22,10 @@
   <img src="https://komarev.com/ghpvc/?username=abay20357&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
 </p>
 
----
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25"/> &nbsp;About Me
 
@@ -43,7 +46,10 @@ const abay = {
 };
 ```
 
----
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> &nbsp;Tech Stack
 
@@ -64,7 +70,10 @@ const abay = {
 
 </details>
 
----
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"/> &nbsp;GitHub Stats
 
@@ -82,7 +91,10 @@ const abay = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abay20357&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="100%" alt="Activity Graph"/>
 </p>
 
----
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"/> &nbsp;What I'm Working On
 
@@ -107,7 +119,10 @@ const abay = {
 </tr>
 </table>
 
----
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> &nbsp;Currently Learning
 
@@ -117,10 +132,9 @@ const abay = {
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
 
----
-
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
