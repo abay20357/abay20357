@@ -162,7 +162,7 @@ const abay = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> &nbsp;Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -175,10 +175,6 @@ const abay = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Design+is+not+just+what+it+looks+like...;Design+is+how+it+works.+%E2%80%93+Steve+Jobs;Good+design+is+invisible.+%E2%80%93+Dieter+Rams;Simplicity+is+the+ultimate+sophistication." alt="Quote"/>
 </p>
 
@@ -188,4 +184,6 @@ const abay = {
   <sub>Let's connect and build something amazing together! 🚀</sub>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> &nbsp;Currently Learning
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
