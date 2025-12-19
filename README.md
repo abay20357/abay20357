@@ -10,7 +10,7 @@
   <a href="https://github.com/abay20357">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="achmadakbar046@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile">
@@ -73,8 +73,28 @@ const abay = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abay20357&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </p>
 
+<!-- 3D Isometric Contribution Calendar -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abay20357&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="98%" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=tokyonight" width="98%" alt="Contribution Details"/>
+  </picture>
+</p>
+
+<!-- 3D City Visualization Buttons -->
+<p align="center">
+  <a href="https://skyline.github.com/abay20357/2024">
+    <img src="https://img.shields.io/badge/🏙️_GitHub_Skyline_3D-6C63FF?style=for-the-badge" alt="GitHub Skyline"/>
+  </a>
+  &nbsp;
+  <a href="https://honzaap.github.io/GithubCity/?name=abay20357">
+    <img src="https://img.shields.io/badge/🌆_GitHub_City-6C63FF?style=for-the-badge" alt="GitHub City"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>👆 <b>Click the buttons above to explore my contributions as an interactive 3D city!</b></sub>
 </p>
 
 ---
