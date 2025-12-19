@@ -73,28 +73,15 @@ const abay = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abay20357&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </p>
 
-<!-- 3D Isometric Contribution Calendar -->
+<!-- 3D Isometric Contribution Calendar - Displays directly! -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=tokyonight"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=default"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abay20357&theme=tokyonight" width="98%" alt="Contribution Details"/>
-  </picture>
+  <img src="https://metrics.lecoq.io/abay20357?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FJakarta" width="98%" alt="3D Isometric Contribution Calendar"/>
 </p>
 
-<!-- 3D City Visualization Buttons -->
+<!-- Additional 3D City Stats Cards -->
 <p align="center">
-  <a href="https://skyline.github.com/abay20357/2024">
-    <img src="https://img.shields.io/badge/🏙️_GitHub_Skyline_3D-6C63FF?style=for-the-badge" alt="GitHub Skyline"/>
-  </a>
-  &nbsp;
-  <a href="https://honzaap.github.io/GithubCity/?name=abay20357">
-    <img src="https://img.shields.io/badge/🌆_GitHub_City-6C63FF?style=for-the-badge" alt="GitHub City"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>👆 <b>Click the buttons above to explore my contributions as an interactive 3D city!</b></sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abay20357&theme=tokyonight&utcOffset=7" width="49%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abay20357&theme=tokyonight" width="49%" alt="Top Languages"/>
 </p>
 
 ---
