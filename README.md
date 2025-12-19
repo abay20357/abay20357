@@ -22,10 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=abay20357&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
 </p>
 
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25"/> &nbsp;About Me
 
@@ -46,16 +43,13 @@ const abay = {
 };
 ```
 
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="25"/> &nbsp;Now Playing on Spotify
 
 <p align="center">
   <a href="https://open.spotify.com/user/31qmlt2rvmca2iwet3i637x5dxky">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qmlt2rvmca2iwet3i637x5dxky&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6C63FF&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qmlt2rvmca2iwet3i637x5dxky&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6C63FF&bar_color_cover=true" alt="Spotify Now Playing" width="350"/>
   </a>
 </p>
 
@@ -63,15 +57,13 @@ const abay = {
   <a href="https://open.spotify.com/user/31qmlt2rvmca2iwet3i637x5dxky">
     <img src="https://img.shields.io/badge/Follow_Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify"/>
   </a>
+  &nbsp;
   <a href="https://open.spotify.com/user/31qmlt2rvmca2iwet3i637x5dxky/playlists">
     <img src="https://img.shields.io/badge/My_Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Playlists"/>
   </a>
 </p>
 
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> &nbsp;Tech Stack
 
@@ -92,10 +84,7 @@ const abay = {
 
 </details>
 
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"/> &nbsp;GitHub Stats
 
@@ -104,7 +93,6 @@ const abay = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abay20357&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </p>
 
-<!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abay20357/abay20357/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </p>
@@ -113,10 +101,7 @@ const abay = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abay20357&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="100%" alt="Activity Graph"/>
 </p>
 
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"/> &nbsp;What I'm Working On
 
@@ -141,10 +126,7 @@ const abay = {
 </tr>
 </table>
 
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> &nbsp;Currently Learning
 
@@ -154,7 +136,6 @@ const abay = {
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
