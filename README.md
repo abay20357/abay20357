@@ -1,89 +1,127 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Achmad Akbar (Abay) 👋</h1>
-<h3 align="center">Design-first Frontend Enthusiast & Creative Developer</h3>
+<p align="center">
+  <img src="header.png" alt="Header" width="100%"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abay+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Enthusiast;Creative+Coder" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/abay20357">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abay20357&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🧑‍🎨 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25"/> &nbsp;About Me
 
-Hi! I'm **Achmad Akbar**, but most people just call me **Abay**.  
-I’m a **design–oriented creator** who loves turning ideas into clean, modern, and user-friendly interfaces.
-
-- 🎨 Stronger in **UI/UX & visual design** than pure coding (for now 😉)
-- 💻 Currently exploring **frontend development** to bring my designs to life
-- 🌏 Interested in **web apps**, dashboards, and tools that help people work smarter
-- 🚀 I enjoy mixing **aesthetic design** with **practical functionality**
-
----
-
-## 🧩 What I Do
-
-- 🎨 **Design**
-  - UI layouts for web apps & dashboards  
-  - Landing pages, banners, and illustrations  
-  - Clean, minimal, and modern visual style
-
-- 💻 **Development**
-  - Frontend basics (HTML, CSS, JavaScript)
-  - Learning modern stacks (React / Tailwind / etc.)
-  - Turning static designs into interactive pages
+```javascript
+const abay = {
+    name: "Achmad Akbar",
+    nickname: "Abay",
+    role: "Frontend Developer & UI/UX Enthusiast",
+    location: "Indonesia 🇮🇩",
+    
+    currentFocus: [
+        "Building modern web applications",
+        "Crafting beautiful user interfaces",
+        "Learning new technologies"
+    ],
+    
+    funFact: "I believe code makes it work, design makes it feel right ✨"
+};
+```
 
 ---
 
-## 🛠️ Tools & Technologies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> &nbsp;Tech Stack
 
-**Design & Creative**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode&perline=9" alt="Tech Stack"/>
+</p>
 
-- Figma / Adobe XD (or similar)
-- Illustration & icon experimentation
-- Layout, typography, and color system
+<details>
+<summary><b>📊 More Details</b></summary>
+<br/>
 
-**Development**
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React |
+| **Styling** | Tailwind CSS, Responsive Design |
+| **Design** | Figma, UI/UX Principles |
+| **Tools** | Git, GitHub, VS Code |
 
-- HTML5, CSS3
-- JavaScript (still improving 💪)
-- Tailwind CSS / basic responsive design
-- Git & GitHub for version control
-
-*(You can adjust this list to match what you actually use.)*
-
----
-
-## 📚 Currently Learning
-
-- Better **frontend structure & components**
-- Reusable **design systems** for web apps
-- How to make UI not just pretty, but also **fast and accessible**
+</details>
 
 ---
 
-## 📂 Featured Directions (Future Projects)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"/> &nbsp;GitHub Stats
 
-- 🌐 Beautiful dashboards with real data  
-- 📊 Simple management tools for small businesses  
-- 🧾 Clean interfaces for apps like POS / reporting / analytics  
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abay20357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abay20357&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+</p>
 
-*(Update this section later with real project links when you’re ready.)*
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to:
-
-- Collaborating on **design-driven projects**
-- Learning from more experienced developers and designers
-- Getting feedback on my UI/UX work
-
-<!--
-Add your social links when you're ready, for example:
-
-- 📫 Email: your.email@example.com  
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-link)  
-- 🖼️ Dribbble / Behance: [Your Portfolio](https://...)
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abay20357&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="98%" alt="Activity Graph"/>
+</p>
 
 ---
 
-> “Code makes it work, design makes it feel right.”  
-> — A mindset I try to follow on every project.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"/> &nbsp;What I'm Working On
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+- Building responsive dashboards
+- Creating modern UI components
+- Learning React ecosystem
+
+</td>
+<td width="50%">
+
+### 🎨 Design
+- Crafting user-friendly interfaces
+- Implementing design systems
+- Exploring micro-animations
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> &nbsp;Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>"Code makes it work, design makes it feel right."</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! ⭐</b>
+</p>
