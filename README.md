@@ -15,7 +15,7 @@
   <a href="mailto:achmadakbar046@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/achmad-akbar-546165308/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -107,6 +107,7 @@ const abay = {
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
 </p>
 
 ### 🔮 These are current projects that I still develop and build
@@ -169,7 +170,7 @@ const abay = {
 </p>
 
 <p align="center">
-  <img src="yuji.gif" width="100%" alt="Yuji"/>
+  <img src="yuji.gif" width="60%" alt="Yuji"/>
 </p>
 
 <p align="center">
