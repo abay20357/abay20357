@@ -138,26 +138,27 @@ const abay = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"/> &nbsp;What I'm Working On
 
-<table align="center">
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🌐 Web Development
-- Building responsive dashboards
-- Creating modern UI components
-- Learning React ecosystem
+| 🌐 **Web Development** | 🎨 **Design** | 📱 **Mobile** |
+|:----------------------:|:-------------:|:-------------:|
+| ![Dashboard](https://img.shields.io/badge/📊_Responsive_Dashboards-6C63FF?style=flat-square) | ![UI/UX](https://img.shields.io/badge/✨_User_Interfaces-FF6B6B?style=flat-square) | ![Flutter](https://img.shields.io/badge/📲_Flutter_Apps-02569B?style=flat-square) |
+| ![Components](https://img.shields.io/badge/🧩_Modern_UI_Components-6C63FF?style=flat-square) | ![Design](https://img.shields.io/badge/🎯_Design_Systems-FF6B6B?style=flat-square) | ![API](https://img.shields.io/badge/🔗_API_Integration-02569B?style=flat-square) |
+| ![React](https://img.shields.io/badge/⚛️_React_Ecosystem-6C63FF?style=flat-square) | ![Animation](https://img.shields.io/badge/🎬_Micro_Animations-FF6B6B?style=flat-square) | ![Cross](https://img.shields.io/badge/🔄_Cross_Platform-02569B?style=flat-square) |
 
-</td>
-<td width="50%">
+</div>
 
-### 🎨 Design
-- Crafting user-friendly interfaces
-- Implementing design systems
-- Exploring micro-animations
+<br/>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently_Building-0D1117?style=for-the-badge&logoColor=white" alt="Currently Building"/>
+</p>
+
+<p align="center">
+  <code>🔥 POS System with Laravel + React</code>&nbsp;&nbsp;
+  <code>📚 Learning Management System</code>&nbsp;&nbsp;
+  <code>🎨 UI Component Library</code>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -178,9 +179,11 @@ const abay = {
 </p>
 
 <p align="center">
-  <i>"Code makes it work, design makes it feel right."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Design+is+not+just+what+it+looks+like...;Design+is+how+it+works.+%E2%80%93+Steve+Jobs;Good+design+is+invisible.+%E2%80%93+Dieter+Rams;Simplicity+is+the+ultimate+sophistication." alt="Quote"/>
 </p>
 
 <p align="center">
   <b>Thanks for visiting! ⭐</b>
+  <br/>
+  <sub>Let's connect and build something amazing together! 🚀</sub>
 </p>
