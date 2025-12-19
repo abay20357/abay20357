@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+  <img src="yuji.gif" width="300" alt="Yuji"/>
 </p>
 
 <h1 align="center">
